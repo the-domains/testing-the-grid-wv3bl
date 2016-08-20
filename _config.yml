@@ -1,0 +1,14 @@
+layout_spectrum: 0.5651081679388881
+typography_spectrum: 0.7114379236008972
+color:
+  brandStrength: 0.16229273076169193
+  lightness: 0.32916044211015105
+  saturation: 0.5711754048243165
+  rhythmicContrast: 0.23142431816086173
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Testing the Grid
